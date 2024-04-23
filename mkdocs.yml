@@ -60,7 +60,7 @@ plugins:
 extra:
   social:
     - icon: material/email
-      link: mailto:anders-soerensen@hotmail.com
+      link: mailto:wdmdevelop@gmail.com
     - icon: fontawesome/brands/github
       link: https://github.com/wdmdev
     - icon: fontawesome/brands/linkedin
