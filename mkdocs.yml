@@ -1,7 +1,7 @@
-site_name: Real-Time Visual and Machine Learning Systems
+site_name: TinyML: Efficient Machine Learning for Embedded AI Systems
 docs_dir: .
 site_dir: ../site
-repo_url: https://github.com/absorensen/real-time-visual-and-machine-learning-systems
+repo_url: https://github.com/wdmdev/tinyml-efficient-ml-for-embedded-ai
 
 theme:
   language: en
@@ -62,9 +62,9 @@ extra:
     - icon: material/email
       link: mailto:anders-soerensen@hotmail.com
     - icon: fontawesome/brands/github
-      link: https://github.com/absorensen
+      link: https://github.com/wdmdev
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/anders-bo-sorensen/
+      link: https://www.linkedin.com/in/william-marstrand
 
 nav:
   - Home: README.md
