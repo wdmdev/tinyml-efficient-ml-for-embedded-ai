@@ -54,7 +54,7 @@ Date      | Prep      | Topics    |Lecture
 6/27/24 | | | [Link][0] 
 6/28/24 | | | [Link][0] 
 
-[0]: https://github.com/wdmdev/tinyml-efficient-ml-for-embedded-ai
+[0]: https://hanlab.mit.edu/courses/2023-fall-65940
 [1]: 
 [2]: 
 [3]: 
