@@ -38,8 +38,8 @@ Date      | Labs      | Topics    |Lecture
 6/11/24   |[Lab 1][21]|Pruning and Sparsity                         | [Part 1][0] , [Part 2][1]
 6/12/24   |[Lab 2][22]|Quantization                                 | [Part 1][2], [Part 2][3]
 6/13/24   |[Lab 3][23]|Neural Architecture Search                   | [Part 1][4], [Part 2][5]
-6/14/24   |[Lab 4][24]|Knowledge Distillation                       | [Link][6] 
-6/15/24   |[Lab 5][25]|Frameworks                                   | [MCUNet][7], [TinyEngine][8] 
+6/14/24   ||Knowledge Distillation                                  | [Link][6] 
+6/15/24   ||Frameworks                                              | [MCUNet][7], [TinyEngine][8] 
 |<div style="background-color: #D3D3D3; padding: 5px; color: black; text-align: center; width:325%" colspan="4">Domain Specific Optimization</div>|
 6/17/24   |[Lab 6][26] and [Lab 7][27]|Transformer and LLM                          | [Part 1][9], [Part 2][10] 
 6/18/24   |[Lab 8][28]|Vision Transformer                           | [Link][11] 
