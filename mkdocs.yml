@@ -1,4 +1,4 @@
-site_name: TinyML: Efficient Machine Learning for Embedded AI Systems
+site_name: "TinyML: Efficient Machine Learning for Embedded AI Systems"
 docs_dir: .
 site_dir: ../site
 repo_url: https://github.com/wdmdev/tinyml-efficient-ml-for-embedded-ai
