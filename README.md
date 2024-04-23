@@ -38,7 +38,7 @@ The course starts on Friday 7 June and runs until Friday 28 June.
 Date      | Prep      | Topics    |Lecture
 ----------|-----------|-----------|-------
 6/7/24  | | | [Link][0]
-6/10/24 | | | [Link][0]
+6/10/24 | | | [Link][1]
 6/11/24 | | | [Link][0]
 6/12/24 | | | [Link][0] 
 6/13/24 | | | [Link][0] 
@@ -55,13 +55,4 @@ Date      | Prep      | Topics    |Lecture
 6/28/24 | | | [Link][0] 
 
 [0]: https://hanlab.mit.edu/courses/2023-fall-65940
-[1]: 
-[2]: 
-[3]: 
-[4]: 
-[5]: 
-[6]: 
-[7]: 
-[8]: 
-[9]: 
-[10]:
+[1]: https://sites.google.com/g.harvard.edu/cs249-tinyml-2023
