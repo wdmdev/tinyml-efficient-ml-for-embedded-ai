@@ -41,8 +41,8 @@ Date      | Labs      | Topics    |Lecture
 6/14/24   ||Knowledge Distillation                                  | [Link][6] 
 6/15/24   ||Frameworks                                              | [MCUNet][7], [TinyEngine][8] 
 |<div style="background-color: #D3D3D3; padding: 5px; color: black; text-align: center; width:325%" colspan="4">Domain Specific Optimization</div>|
-6/17/24   |[Lab 6][26] and [Lab 7][27]|Transformer and LLM                          | [Part 1][9], [Part 2][10] 
-6/18/24   |[Lab 8][28]|Vision Transformer                           | [Link][11] 
+6/17/24   |[Lab 4][26] and [Lab 5][27]|Transformer and LLM                          | [Part 1][9], [Part 2][10] 
+6/18/24   |[Lab 6][28]|Vision Transformer                           | [Link][11] 
 6/19/24   ||GAN, Video, and Point Cloud                             | [Link][12] 
 6/20/24   ||Diffusion Model                                         | [Link][13] 
 6/21/24   ||Recurrent Neural Networks                               | [Paper][14] 
@@ -50,8 +50,8 @@ Date      | Labs      | Topics    |Lecture
 6/24/24   ||Distributed Training                                    | [Part 1][15], [Part 2][16] 
 6/25/24   ||On-Device Training and Transfer Learning                | [Link][17] 
 6/26/24   ||Efficient Fine-tuning and Prompt Engineering            | [Link][18] 
-6/27/24   |[Lab 14][29]|Benchmarking TinyML Systems                 | [Paper][19] 
-6/28/24   |[Lab 15][30]|Carbon and Energy Tracking                  | [Paper][20] 
+6/27/24   |[Lab 7][29]|Benchmarking TinyML Systems                 | [Paper][19] 
+6/28/24   |[Lab 8][30]|Carbon and Energy Tracking                  | [Paper][20] 
 
 <!--Lectures-->
 [0]:    https://youtu.be/w5WiUcDJosM
