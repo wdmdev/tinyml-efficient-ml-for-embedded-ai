@@ -9,12 +9,18 @@ This page is created as a fork of the following course page [Real-Time Visual an
 .
 
 ## Course Description
+This course provides an introduction to TinyML, focusing on efficient machine learning for embedded AI systems. Students will learn the fundamental concepts and techniques for developing machine learning models that can run on resource-constrained devices. Topics covered include model optimization, quantization, neural architecture search, knowledge distillation, and domain-specific optimization. The course will also explore efficient training methods, distributed training, on-device training, and transfer learning. Hands-on labs and readings will complement the lectures, allowing students to gain practical experience in implementing TinyML systems. By the end of the course, students will have the knowledge and skills to design and deploy machine learning models on embedded devices.
 
 
 ## Learning Objectives
 
 A student who has met the objectives of the course will be able to:
-
+* Understand the concept of TinyML and its applications in embedded AI systems.
+* Learn techniques for optimizing machine learning models for resource-constrained devices.
+* Gain knowledge in model quantization, neural architecture search, knowledge distillation, and domain-specific optimization.
+* Explore efficient training methods, including distributed training, on-device training, and transfer learning.
+* Develop practical skills in implementing TinyML systems through hands-on labs.
+* Design and deploy machine learning models on embedded devices.
 
 ## Evaluation
 * Summary report of the learnings throughout the course
