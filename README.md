@@ -15,6 +15,7 @@ This course provides an introduction to TinyML, focusing on efficient machine le
 ## Learning Objectives
 
 A student who has met the objectives of the course will be able to:
+
 * Understand the concept of TinyML and its applications in embedded AI systems.
 * Learn techniques for optimizing machine learning models for resource-constrained devices.
 * Gain knowledge in model quantization, neural architecture search, knowledge distillation, and domain-specific optimization.
@@ -27,11 +28,13 @@ A student who has met the objectives of the course will be able to:
 
 ### Course work
 The course will consist of:
+
 * Lectures
 * Some readings (mainly papers)
 * Hands-on labs
 
 For extra resources one may find the following useful:
+
 * [Machine Learning Systems](https://harvard-edge.github.io/cs249r_book/)
 * [Paper Overview - CMU On-Device Machine Learning](https://cmu-odml.github.io/papers/)
 
