@@ -6,6 +6,8 @@ part of my MSc in Mathematical Modeling and Computation with a Machine Learning 
 
 This page is created as a fork of the following course page [Real-Time Visual and Machine Learning Systems](https://absorensen.github.io/real-time-visual-and-machine-learning-systems/). Thanks to [Anders Bo Sørensen](https://absorensen.github.io/) and his co-workers for making it available! 
 <a href="https://www.flaticon.com/free-icons/lightning" title="lightning icons">Lightning icons created by Freepik - Flaticon</a>
+
+See the actual site here: [TinyML: Efficient Machine Learning for Embedded Ai Systems](https://wdmdev.github.io/tinyml-efficient-ml-for-embedded-ai/)
 .
 
 ## Course Description
