@@ -1,4 +1,4 @@
-# TinyML: Efficient Machine Learning for Embedded AI Systems
+# [TinyML: Efficient Machine Learning for Embedded AI Systems](https://wdmdev.github.io/tinyml-efficient-ml-for-embedded-ai/)
 (Danish Title) TinyML: Effektiv maskinlæring til indlejrede AI-systemer.
 
 My way of creating an overview of a special course I am taking at [The Technical University of Denmark](https://www.dtu.dk/) as 
@@ -6,9 +6,6 @@ part of my MSc in Mathematical Modeling and Computation with a Machine Learning 
 
 This page is created as a fork of the following course page [Real-Time Visual and Machine Learning Systems](https://absorensen.github.io/real-time-visual-and-machine-learning-systems/). Thanks to [Anders Bo Sørensen](https://absorensen.github.io/) and his co-workers for making it available! 
 <a href="https://www.flaticon.com/free-icons/lightning" title="lightning icons">Lightning icons created by Freepik - Flaticon</a>
-
-See the actual site here: [TinyML: Efficient Machine Learning for Embedded Ai Systems](https://wdmdev.github.io/tinyml-efficient-ml-for-embedded-ai/)
-.
 
 ## Course Description
 This course provides an introduction to TinyML, focusing on efficient machine learning for embedded AI systems. Students will learn the fundamental concepts and techniques for developing machine learning models that can run on resource-constrained devices. Topics covered include model optimization, quantization, neural architecture search, knowledge distillation, and domain-specific optimization. The course will also explore efficient training methods, distributed training, on-device training, and transfer learning. Hands-on labs and readings will complement the lectures, allowing students to gain practical experience in implementing TinyML systems. By the end of the course, students will have the knowledge and skills to design and deploy machine learning models on embedded devices.
