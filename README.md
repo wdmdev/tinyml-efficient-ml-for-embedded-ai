@@ -44,8 +44,8 @@ Date      | Labs      | Topics    |Lecture
 ----------|-----------|-----------|-------
 |<div style="background-color: #D3D3D3; padding: 5px; color: black; text-align: center; width:325%" colspan="4">Efficient Inference</div>|
 6/10/24   |[Lab 1][21]|Pruning and Sparsity                         | [Part 1][0] , [Part 2][1]
-6/11/24   |[Lab 2][22]|Quantization                                 | [Part 1][2], [Part 2][3]
-6/12/24   |[Lab 3][23]|Neural Architecture Search                   | [Part 1][4], [Part 2][5]
+6/11/24   |[Lab 2][22] (Optional [Lab 2.1][23])|Quantization                                 | [Part 1][2], [Part 2][3]
+6/12/24   |[Lab 3][24]|Neural Architecture Search                   | [Part 1][4], [Part 2][5]
 6/13/24   ||Knowledge Distillation                                  | [Link][6] 
 6/14/24   ||Frameworks                                              | [MCUNet][7], [TinyEngine][8] 
 |<div style="background-color: #D3D3D3; padding: 5px; color: black; text-align: center; width:325%" colspan="4">Domain Specific Optimization</div>|
@@ -84,9 +84,10 @@ Date      | Labs      | Topics    |Lecture
 [19]:   https://arxiv.org/abs/2003.04821     
 [20]:   https://arxiv.org/abs/2007.03051
 <!--Labs-->
-[21]:   https://drive.google.com/file/d/124toPMHDd3z6LiXOhOgHPy6Wvb0Xzw3E/view?usp=sharing   
-[22]:   https://github.com/cmu-odml/cmu-odml.github.io/blob/master/labs/03_quantization.ipynb
-[23]:   https://drive.google.com/file/d/1n1_T-icO-LZsZpcti-pRZcX_VvumbDWM/view?usp=sharing
+[21]:   https://drive.google.com/file/d/1j1-DBXdCxysDU4EitWCy9_QgNhWbp62c/view?usp=sharing  
+[22]:   https://drive.google.com/file/d/124toPMHDd3z6LiXOhOgHPy6Wvb0Xzw3E/view?usp=sharing   
+[23]:   https://github.com/cmu-odml/cmu-odml.github.io/blob/master/labs/03_quantization.ipynb
+[24]:   https://drive.google.com/file/d/1n1_T-icO-LZsZpcti-pRZcX_VvumbDWM/view?usp=sharing
 [26]:   https://colab.research.google.com/drive/1zxkqlnaJ7y5P9PAhyr0504je3uJZVIaF?usp=share_link
 [27]:   https://github.com/ee292d/labs/blob/main/lab6/README.md
 [28]:   https://github.com/ee292d/labs/tree/main/lab2
